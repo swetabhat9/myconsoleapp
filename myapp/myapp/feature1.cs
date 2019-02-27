@@ -8,14 +8,8 @@ namespace myapp
 {
     static class feature1
     {
-       public static int add(int a, int b) //refactored code
+       public static int add(int a, int b) 
         {
-
-            //int a = 10;
-           // int b = 20;
-           // int sum = a + b;
-           // return sum;
-           
            return a+b;
         }
     }
