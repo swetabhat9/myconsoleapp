@@ -10,6 +10,7 @@ namespace myapp
     {
         static void Main(string[] args)
         {
+            //Here goes the logic to do some stuff
         }
     }
 }
