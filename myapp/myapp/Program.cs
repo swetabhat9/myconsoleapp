@@ -19,6 +19,9 @@ namespace myapp
             int sum = feature1.add(10,20);
             Console.WriteLine(sum);
 
+            //here goes the logic for feature 2
+            int product = feature2.multiply(10, 20);
+            Console.WriteLine(sum);
         }
     }
 }
